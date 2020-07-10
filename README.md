@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on regaining my sanity.
-- 🌱 I’m currently learning how to train and test big datasets in a mediocre laptop
+- 🌱 I’m currently learning how to train and test big datasets without a laptop
 - 👯 I’m looking to collaborate on positivity
 - 🤔 I’m looking for help with how to make my heart Flutter
 - 💬 Ask me about anything
