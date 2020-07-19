@@ -10,4 +10,4 @@
 -->
 
 
-![DEBANJANAB's github stats](https://github-readme-stats.vercel.app/api?username=DEBANJANAB&show_icons=true&theme=tokyonigh)
+![DEBANJANAB's github stats](https://github-readme-stats.vercel.app/api?username=DEBANJANAB&show_icons=true&theme=tokyonight)
