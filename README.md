@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I sleep 12 hours a day
 -->
 
-[![DEBANJANAB's github stats](https://github-readme-stats.vercel.app/api?username=DEBANJANAB)](https://github.com/DEBANJANAB/github-readme-stats)
+
 ![DEBANJANAB's github stats](https://github-readme-stats.vercel.app/api?username=DEBANJANAB&show_icons=true&theme=radical)
