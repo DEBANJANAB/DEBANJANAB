@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I sleep 12 hours a day
 -->
 
-https://user-images.githubusercontent.com/37831166/88147857-67731500-cc1b-11ea-9633-c6dfb0a4dba5.png
+![2020-07-22 (2)](https://user-images.githubusercontent.com/37831166/88148392-27606200-cc1c-11ea-905e-c24a72371b1c.png)
+
 
 
 ![DEBANJANAB's github stats](https://github-readme-stats.vercel.app/api?username=DEBANJANAB&show_icons=true&theme=tokyonight)
