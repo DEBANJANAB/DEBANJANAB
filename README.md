@@ -11,8 +11,7 @@
 
 ![2020-07-22 (4)](https://user-images.githubusercontent.com/37831166/88148694-9b9b0580-cc1c-11ea-80d1-77865defd348.png)
 
-![2020-07-22 (5)](https://user-images.githubusercontent.com/37831166/88149073-31369500-cc1d-11ea-8de9-c91207d10bd1.png)
-
+![2020-08-03 (2)](https://user-images.githubusercontent.com/37831166/89131512-fa208780-d52a-11ea-9b5b-aa014295a14e.png)
 
 
 ![DEBANJANAB's github stats](https://github-readme-stats.vercel.app/api?username=DEBANJANAB&show_icons=true&theme=tokyonight)
